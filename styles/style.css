@@ -4,5 +4,91 @@ Colors:
 Text: 1A1A1A
 Green: #00B172
 White: #FFF
-
 */
+body{
+    font-family: sans-serif;
+}
+
+nav img{
+    width: 20%;
+    padding-right: 0%;
+}
+
+.a{
+    width: 100%;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: #FFF;
+}
+
+ h2{
+     display: flex;
+     justify-content: center;
+ }
+hr {
+   border-color: #00B172;
+   width: 50%;
+}
+
+ button{
+    background-color: white;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    color: black;
+    
+}
+.buttons {
+   display: flex;
+    justify-content: flex-end; 
+    margin-top: 0%;
+    
+} 
+.boxes{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.boxes img{
+    width: 10%;
+}
+
+.boxes h6{
+    font-size: 100%;
+    color: #00B172;
+}
+
+#section3{
+    background-color: #00B172;
+    color: white;
+    
+}
+
+
+h3{
+    display: flex;
+    justify-content: center;
+    
+}
+
+h5{
+    display: flex;
+    justify-content:flex-start;
+    
+}
+
+
+
+.lastImg{
+    width: 10%;
+    display: flex;
+
+}
+
+.lastImgs{
+    width: 30%;
+}
